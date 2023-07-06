@@ -6,4 +6,4 @@ node index.mjs
 
 # Results
 
-![](https://github.com/LIT-Protocol/test-pkp-ethers/result.png)
+![](https://raw.githubusercontent.com/LIT-Protocol/test-pkp-ethers/main/result.png)
